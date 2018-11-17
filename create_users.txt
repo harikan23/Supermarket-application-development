@@ -1,0 +1,29 @@
+create user '500'@'localhost' identified with mysql_native_password by '500'
+create user '501'@'localhost' identified with mysql_native_password by '501'
+create user '502'@'localhost' identified with mysql_native_password by '502'
+create user '503'@'localhost' identified with mysql_native_password by '503'
+create user '504'@'localhost' identified with mysql_native_password by '504'
+create user '505'@'localhost' identified with mysql_native_password by '505'
+create user '506'@'localhost' identified with mysql_native_password by '506'
+create user '600'@'localhost' identified with mysql_native_password by '600'
+create user '601'@'localhost' identified with mysql_native_password by '601'
+create user '602'@'localhost' identified with mysql_native_password by '602'
+create user '603'@'localhost' identified with mysql_native_password by '603'
+create user '604'@'localhost' identified with mysql_native_password by '604'
+grant all on SUPERMARKET1.* to  '500'@'localhost' identified by '500';
+grant all on SUPERMARKET1.* to  '501'@'localhost' identified by '501';
+grant all on SUPERMARKET1.* to  '502'@'localhost' identified by '502';
+grant all on SUPERMARKET1.* to  '503'@'localhost' identified by '503';
+grant all on SUPERMARKET1.* to  '504'@'localhost' identified by '504';
+grant all on SUPERMARKET1.* to  '505'@'localhost' identified by '505';
+grant all on SUPERMARKET1.* to  '506'@'localhost' identified by '506';
+grant all on SUPERMARKET1.* to  '600'@'localhost' identified by '600';
+grant all on SUPERMARKET1.* to  '601'@'localhost' identified by '601';
+grant all on SUPERMARKET1.* to  '602'@'localhost' identified by '602';
+grant all on SUPERMARKET1.* to  '603'@'localhost' identified by '603';
+grant all on SUPERMARKET1.* to  '604'@'localhost' identified by '604';
+
+
+
+
+
